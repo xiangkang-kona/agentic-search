@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.codebuddy/
+run_log.txt
+data/logs/
+.streamlit/secrets.toml
